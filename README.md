@@ -4,11 +4,11 @@ Git Commands for Learning Purpose
 
 To start contributing, follow the below guidelines: 
 
-**1.**  Fork [this](https://github.com/CodeFlow201/GitMarkonics.git) repository.
+**1.**  Fork [this](https://github.com/Ayush7614/Git-Command.git) repository.
 
 **2.**  Clone your forked copy of the project.
 ```
- $ git clone https://github.com/<your_gihub_username>/GitMarkonics.git
+ $ git clone https://github.com/<your_gihub_username>/Git-Command.git
 ```
 **3.** Checkout into a new branch 
 
@@ -32,8 +32,8 @@ To start contributing, follow the below guidelines:
 
 **2.** Adding the remote reporitory 
     
-    $ git remote add upstream https://github.com/CodeFlow201/GitMarkonics.git
-
+    $ git remote add upstream https://github.com/Ayush7614/Git-Command.git
+    
 **3.** Fetching The Upstream Repository
 
     $ git fetch upstream

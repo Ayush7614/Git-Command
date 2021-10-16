@@ -2,6 +2,10 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&center=true&color=2CFF00&size=40&width=750&height=80&lines=Git+Commands+For+Learning"/>
 </p>
 
+[![Check it Out](https://forthebadge.com/images/badges/check-it-out.svg)](https://github.com/Ayush7614) [![Live Demo](https://forthebadge.com/images/badges/its-not-a-lie-if-you-believe-it.svg)](https://github.com/Ayush7614)
+
+[![Made with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/Ayush7614) [![For you](https://forthebadge.com/images/badges/for-you.svg)](https://github.com/Ayush7614) [![Powered by o2](https://forthebadge.com/images/badges/powered-by-oxygen.svg)](https://facebook.com/Ayush7614)
+
 # Git-Command
 
 Git Commands for Learning Purpose

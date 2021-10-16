@@ -7,10 +7,9 @@
 [![Lol :p ](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://facebook.com/) [![Yes, Not an issue](https://forthebadge.com/images/badges/not-an-issue.svg)](https://instagram.com/)
 
 Thank you for being here!
-For any kind of help in running this project, feel free to contact me @ [vinitshahdeo@gmail.com](https://mail.google.com/mail/)
+For any kind of help in running this project, feel free to contact me @ [ayushknj3@gmail.com](https://mail.google.com/mail/)
 
-[![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://facebook.com/vinit.shahdeo) 
-[![Twitter](https://img.shields.io/twitter/url/https/github.com/vinitshahdeo/TwitterSentimentAnalysis.svg?style=social)](https://twitter.com/intent/tweet?text=Twitter%20Sentiment%20Analysis%20by%20@Vinit_Shahdeo%20:&url=https%3A%2F%2Fgithub.com%2Fvinitshahdeo%2FTwitterSentimentAnalysis)
+[![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://facebook.com/) 
 
 
 

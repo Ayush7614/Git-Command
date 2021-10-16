@@ -2,6 +2,18 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&center=true&color=2CFF00&size=40&width=750&height=80&lines=Git+Commands+For+Learning"/>
 </p>
 
+## Oh, Thanks!
+
+[![Lol :p ](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://facebook.com/) [![Yes, Not an issue](https://forthebadge.com/images/badges/not-an-issue.svg)](https://instagram.com/)
+
+Thank you for being here!
+For any kind of help in running this project, feel free to contact me @ [vinitshahdeo@gmail.com](https://mail.google.com/mail/)
+
+[![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://facebook.com/vinit.shahdeo) 
+[![Twitter](https://img.shields.io/twitter/url/https/github.com/vinitshahdeo/TwitterSentimentAnalysis.svg?style=social)](https://twitter.com/intent/tweet?text=Twitter%20Sentiment%20Analysis%20by%20@Vinit_Shahdeo%20:&url=https%3A%2F%2Fgithub.com%2Fvinitshahdeo%2FTwitterSentimentAnalysis)
+
+
+
 [![Check it Out](https://forthebadge.com/images/badges/check-it-out.svg)](https://github.com/Ayush7614) [![Live Demo](https://forthebadge.com/images/badges/its-not-a-lie-if-you-believe-it.svg)](https://github.com/Ayush7614)
 
 [![Made with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/Ayush7614) [![For you](https://forthebadge.com/images/badges/for-you.svg)](https://github.com/Ayush7614) [![Powered by o2](https://forthebadge.com/images/badges/powered-by-oxygen.svg)](https://facebook.com/Ayush7614)
